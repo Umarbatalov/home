@@ -1,0 +1,36 @@
+[/]
+default='bf1c7472-9e8f-4e19-8867-b49e53f1bb89'
+list=['b1dcc9dd-5262-4d8d-a863-c897e6d979b9', 'bf1c7472-9e8f-4e19-8867-b49e53f1bb89']
+
+[:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+audible-bell=false
+background-color='rgb(0,0,0)'
+background-transparency-percent=24
+bold-is-bright=true
+cursor-shape='underline'
+foreground-color='rgb(170,170,170)'
+highlight-colors-set=false
+palette=['rgb(12,96,117)', 'rgb(220,50,47)', 'rgb(133,153,0)', 'rgb(181,137,0)', 'rgb(38,210,74)', 'rgb(211,54,130)', 'rgb(42,161,152)', 'rgb(238,232,213)', 'rgb(10,83,101)', 'rgb(203,75,22)', 'rgb(88,110,117)', 'rgb(101,123,131)', 'rgb(131,148,150)', 'rgb(108,113,196)', 'rgb(147,161,161)', 'rgb(253,246,227)']
+use-system-font=true
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
+
+[:bf1c7472-9e8f-4e19-8867-b49e53f1bb89]
+audible-bell=false
+background-color='rgb(0,0,0)'
+background-transparency-percent=14
+bold-is-bright=false
+cursor-blink-mode='on'
+cursor-shape='block'
+delete-binding='delete-sequence'
+foreground-color='rgb(228,226,226)'
+login-shell=false
+palette=['rgb(7,54,66)', 'rgb(220,50,47)', 'rgb(133,153,0)', 'rgb(181,137,0)', 'rgb(38,139,210)', 'rgb(211,54,130)', 'rgb(42,161,152)', 'rgb(238,232,213)', 'rgb(0,43,54)', 'rgb(203,75,22)', 'rgb(88,110,117)', 'rgb(101,123,131)', 'rgb(131,148,150)', 'rgb(108,113,196)', 'rgb(147,161,161)', 'rgb(253,246,227)']
+scroll-on-keystroke=true
+scroll-on-output=false
+use-system-font=true
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='Umar'
